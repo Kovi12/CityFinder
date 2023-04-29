@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CityFinder</string>
+    <string name="search">Search:</string>
+    <string name="city_name">City Name</string>
+    <string name="city_finder">City Finder</string>
+    <string name="find">Find</string>
+    <string name="destination_city">Destination City</string>
+    <string name="compute">Compute</string>
+    <string name="todo">TODO</string>
+    <string name="population">Population:</string>
+    <string name="back">Back</string>
+</resources>
