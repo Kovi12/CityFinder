@@ -8,7 +8,11 @@ The getDistance function is also in the aidl. It uses a formula based on the coo
 In the main activity I use a ListAdapter in order to add items that contain a textview and an image.
 Also on some cities I didn't find some data like the metropolitan area occuppied.In that case the app will show the value null.
 If in the searchView the list will filter to empty it will show a toast saying No result found. In the CityPage if you enter a wrong city name, it will show you a toast as well.
-![1](Pictures/1.jpg)
-![2](Pictures/2.jpg)
-![3](Pictures/3.jpg)
-![4](Pictures/4.jpg)
+Main Activity
+<img src="Pictures/1.jpg" width="400" height="200">
+Search
+<img src="Pictures/2.jpg" width="400" height="200">
+City Page
+<img src="Pictures/3.jpg" width="400" height="200">
+Distance Calculator
+<img src="Pictures/4.jpg" width="400" height="200">
