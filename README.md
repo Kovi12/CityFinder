@@ -9,10 +9,10 @@ In the main activity I use a ListAdapter in order to add items that contain a te
 Also on some cities I didn't find some data like the metropolitan area occuppied.In that case the app will show the value null.
 If in the searchView the list will filter to empty it will show a toast saying No result found. In the CityPage if you enter a wrong city name, it will show you a toast as well.
 Main Activity
-<img src="Pictures/1.jpg" width="400" height="200">
+<img src="Pictures/1.jpg"><br>
 Search
-<img src="Pictures/2.jpg" width="400" height="200">
+<img src="Pictures/2.jpg"><br>
 City Page
-<img src="Pictures/3.jpg" width="400" height="200">
+<img src="Pictures/3.jpg"><br>
 Distance Calculator
-<img src="Pictures/4.jpg" width="400" height="200">
+<img src="Pictures/4.jpg"><br>
